@@ -1,0 +1,13 @@
+#--
+# Companion document for snp_resource_screenshot_6-01-21.png
+#--
+
+This document describes the steps taken to acquire the historical data for the S&P500 Index.
+
+1. Navigate to https://nasdaq.com/market-activity/index/spx/historical
+2. Select "5Y" above the chart
+3. Click "Download Data" to save to a csv file
+
+Notes:
+1. Result returns 1259 rows
+2. Last row dated 6/1/2016 with a close price of $2099.33
