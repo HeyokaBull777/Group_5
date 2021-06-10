@@ -1,0 +1,10 @@
+# ANALYSIS of Cramer's 2020 Pandemic Stock Picks
+
+#### How have Cramer's recommendations performed over 1 month since making recommendation?
+    The 1 month return for Cramer's Pandemic Stock picks was -2.89% assuming an equal weighting of each holding in a portfolio.  However, during this time period, the S&P 500 had a return of -10.5%. Of these 20 stocks, the best performer was Zoom (ZM) with a 7.94% return over the 1 month time period.  On the opposite end, ETSY was the worst performing stock with a return of -23.32%.
+    It's also important to note that the time period we chose to analyze these stocks was starting from March 6, 2020, which was the middle of the massive market pull back from the beginning of the Pandemic.  Generally speaking, Cramer outperformed the S&P 500 over the 1 month time period, which is the goal of almost every fund manager out there.   
+
+#### How do his recommendations compare to the S&P 500?
+    When looking at Cramer's picks in comparison to the S&P 500 over a 1 month period (March 6, 2020 until April 6, 2020), the results were rather interesting.  When comparing his recommendations to the S&P 500, beta analysis is a great place to start.  Beta is a meausre of the volatitlity or systemic risk of a security or portofolio as compared to the market (S&P 500 in this case) as a whole.  The beta's of the 20 stocks he selected ranged from -0.28 to as much as 1.23 with the average beta being 0.72.  This means on average, the 20 stocks Cramer selected, have a very similar pattern of volatility to the market and move relatively close to the market movements.  I also ran a correlation between all of the stocks and the and plotted it as a heat map.
+    The heat map shows the correlation between all of our stocks and the S&P 500 and it's very clear that ZM (Zoom) is the only negatively correlated stock in this batch which makes sense when you consider that it produced the highest level of returns of the 20 Pandemic Stock Picks from Cramer.  This is also around the time that work from home was being implemented by many companies across the country.  The bet on Zoom was a great choice based on these factors.  
+
